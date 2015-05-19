@@ -1,0 +1,415 @@
+Database last successfully read (2015 March 12, 18:47:41), with the folowing data:
+
+======== TIME INTERVALS (7) ========
+A (8:00 - 9:40)
+B (9:50 - 11:30)
+C (11:40 - 13:20)
+D (13:30 - 15:10)
+E (15:20 - 17:00)
+F (17:10 - 18:50)
+G (19:00 - 20:40)
+
+======== CLASS TYPES (4) ========
+[C]. CURS (#F06916)
+[L]. LABORATOR (#67A4EB)
+[S]. SEMINAR (#EDDF15)
+[E]. EXAMEN (#FF0000)
+
+======== PROFESSORS (16) ========
+[ALD]. Costel Aldea
+[BAI]. Alexandra Băicoianu
+[VAS]. Anca Vasilescu
+[SCH]. Ernest Scheiber
+[BC1]. Dorin Bocu
+[PAL]. Eugen Paltânea
+[BC2]. Răzvan Bocu
+[STR]. Cosmin Stroe
+[NAN]. Corina Nănău
+[PLJ]. Ioana Plajer
+[FLO]. Ionuț Florea
+[SAN]. Livia Sângeorzan
+[SAS]. Lucian Sasu
+[SA$]. Adela Sasu
+[IAC]. Paul Iacob
+[PLU]. Plugaru L.
+
+======== ROOMS (11) ========
+[pp.5]. PP5
+[p1.2]. PI2
+[p2.1]. PII1
+[p2.2]. PII2
+[p2.3]. PII3
+[p2.4]. PII4
+[p2.5]. PII5
+[p2.6]. PII6
+[p3.1]. PIII1
+[p3.2]. PIII2
+[p3.4]. PIII4
+
+======== SEMESTERS (2) ========
+
+====== Semester UniTBv:7221.A:6 ======
+ : Transilvania Brașov / Matematică și Informatică / 2014-2015 / 7221 / IV
+
+=== Week categories (3) ===
+  # [impare]. Săptămâni impare
+     * 2015.02.23 - 2015.03.01
+     * 2015.03.09 - 2015.03.15
+     * 2015.03.23 - 2015.03.29
+     * 2015.04.06 - 2015.04.12
+     * 2015.04.27 - 2015.05.03
+     * 2015.05.11 - 2015.05.17
+     * 2015.05.25 - 2015.05.31
+  # [pare]. Săptămâni pare
+     * 2015.03.02 - 2015.03.08
+     * 2015.03.16 - 2015.03.22
+     * 2015.03.30 - 2015.04.05
+     * 2015.04.20 - 2015.04.26
+     * 2015.05.04 - 2015.05.10
+     * 2015.05.18 - 2015.05.24
+     * 2015.06.01 - 2015.06.07
+  # [sesiuneS2]. Sesiunea de examene (săptămâna 1)
+     * 2015.06.08 - 2015.06.14
+=== Weeks (14) ===
+     * 2015.02.23 - 2015.03.01
+     * 2015.03.02 - 2015.03.08
+     * 2015.03.09 - 2015.03.15
+     * 2015.03.16 - 2015.03.22
+     * 2015.03.23 - 2015.03.29
+     * 2015.03.30 - 2015.04.05
+     * 2015.04.06 - 2015.04.12
+     * 2015.04.20 - 2015.04.26
+     * 2015.04.27 - 2015.05.03
+     * 2015.05.04 - 2015.05.10
+     * 2015.05.11 - 2015.05.17
+     * 2015.05.18 - 2015.05.24
+     * 2015.05.25 - 2015.05.31
+     * 2015.06.01 - 2015.06.07
+=== Disciplines (5) ===
+  # [M.P.I.]. Management proiecte (28 classes; #8A5812, #E0EB83)
+     * C, in p2.2 with BC1, at 2015.02.25 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.02.25 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.03.04 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.03.04 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.03.11 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.03.11 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.03.18 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.03.18 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.03.25 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.03.25 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.04.01 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.04.01 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.04.08 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.04.08 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.04.22 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.04.22 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.04.29 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.04.29 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.05.06 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.05.06 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.05.13 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.05.13 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.05.20 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.05.20 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.05.27 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.05.27 (15:20 - 17:00)
+     * C, in p2.2 with BC1, at 2015.06.03 (13:30 - 15:10)
+     * L, in p2.3 with BC1, at 2015.06.03 (15:20 - 17:00)
+  # [I.A.]. Inteligență artificială (28 classes; #4D0869, #B762D9)
+     * L, in p2.5 with BAI, at 2015.02.23 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.02.26 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.03.02 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.03.05 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.03.09 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.03.12 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.03.16 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.03.19 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.03.23 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.03.26 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.03.30 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.04.02 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.04.06 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.04.09 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.04.20 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.04.23 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.04.27 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.04.30 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.05.04 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.05.07 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.05.11 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.05.14 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.05.18 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.05.21 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.05.25 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.05.28 (8:00 - 9:40)
+     * L, in p2.5 with BAI, at 2015.06.01 (15:20 - 17:00)
+     * C, in p2.2 with SAS, at 2015.06.04 (8:00 - 9:40)
+  # [S.S.I.]. Securitate sisteme (28 classes; #025599, #66B9E3)
+     * C, in p1.2 with ALD, at 2015.02.23 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.02.24 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.03.02 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.03.03 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.03.09 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.03.10 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.03.16 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.03.17 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.03.23 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.03.24 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.03.30 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.03.31 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.04.06 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.04.07 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.04.20 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.04.21 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.04.27 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.04.28 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.05.04 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.05.05 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.05.11 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.05.12 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.05.18 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.05.19 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.05.25 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.05.26 (11:40 - 13:20)
+     * C, in p1.2 with ALD, at 2015.06.01 (17:10 - 18:50)
+     * L, in p2.3 with IAC, at 2015.06.02 (11:40 - 13:20)
+  # [P.S.]. Probabilități și statistică (28 classes; #75001D, #D993A5)
+     * C, in p1.2 with PAL, at 2015.02.25 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.02.25 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.03.04 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.03.04 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.03.11 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.03.11 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.03.18 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.03.18 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.03.25 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.03.25 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.04.01 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.04.01 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.04.08 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.04.08 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.04.22 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.04.22 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.04.29 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.04.29 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.05.06 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.05.06 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.05.13 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.05.13 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.05.20 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.05.20 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.05.27 (8:00 - 9:40)
+     * S, in p2.2 with PAL, at 2015.05.27 (9:50 - 11:30)
+     * C, in p1.2 with PAL, at 2015.06.03 (8:00 - 9:40)
+     * L, in p2.4 with PAL, at 2015.06.03 (9:50 - 11:30)
+  # [E.L.Ș.]. Editare lucrări științifice (28 classes; #125E3C, #10E082)
+     * C, in p3.2 with SA$, at 2015.02.24 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.02.24 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.03.03 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.03.03 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.03.10 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.03.10 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.03.17 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.03.17 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.03.24 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.03.24 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.03.31 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.03.31 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.04.07 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.04.07 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.04.21 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.04.21 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.04.28 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.04.28 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.05.05 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.05.05 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.05.12 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.05.12 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.05.19 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.05.19 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.05.26 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.05.26 (9:50 - 11:30)
+     * C, in p3.2 with SA$, at 2015.06.02 (8:00 - 9:40)
+     * L, in pp.5 with SA$, at 2015.06.02 (9:50 - 11:30)
+
+====== Semester UniTBv:7221.A:5 ======
+ : Transilvania Brașov / Matematică și Informatică / 2014-2015 / 7221.A / V
+
+=== Week categories (2) ===
+  # [impare]. Săptămâni impare
+     * 2014.10.13 - 2014.10.19
+     * 2014.10.27 - 2014.11.02
+     * 2014.11.10 - 2014.11.16
+     * 2014.11.24 - 2014.11.30
+     * 2014.12.08 - 2014.12.14
+     * 2015.01.05 - 2015.01.11
+     * 2015.01.19 - 2015.01.25
+  # [pare]. Săptămâni pare
+     * 2014.10.06 - 2014.10.12
+     * 2014.10.20 - 2014.10.26
+     * 2014.11.03 - 2014.11.09
+     * 2014.11.17 - 2014.11.23
+     * 2014.12.01 - 2014.12.07
+     * 2014.12.15 - 2014.12.21
+     * 2015.01.12 - 2015.01.18
+=== Weeks (14) ===
+     * 2014.10.06 - 2014.10.12
+     * 2014.10.13 - 2014.10.19
+     * 2014.10.20 - 2014.10.26
+     * 2014.10.27 - 2014.11.02
+     * 2014.11.03 - 2014.11.09
+     * 2014.11.10 - 2014.11.16
+     * 2014.11.17 - 2014.11.23
+     * 2014.11.24 - 2014.11.30
+     * 2014.12.01 - 2014.12.07
+     * 2014.12.08 - 2014.12.14
+     * 2014.12.15 - 2014.12.21
+     * 2015.01.05 - 2015.01.11
+     * 2015.01.12 - 2015.01.18
+     * 2015.01.19 - 2015.01.25
+=== Disciplines (5) ===
+  # [C.Op.]. Cercetări operaționale (28 classes; #284D26, #93D58F)
+     * C, in p2.2 with VAS, at 2014.10.08 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2014.10.13 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2014.10.15 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2014.10.15 (15:20 - 17:00)
+     * C, in p2.2 with VAS, at 2014.10.22 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2014.10.27 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2014.10.29 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2014.10.29 (15:20 - 17:00)
+     * C, in p2.2 with VAS, at 2014.11.05 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2014.11.10 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2014.11.12 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2014.11.12 (15:20 - 17:00)
+     * C, in p2.2 with VAS, at 2014.11.19 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2014.11.24 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2014.11.26 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2014.11.26 (15:20 - 17:00)
+     * C, in p2.2 with VAS, at 2014.12.03 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2014.12.08 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2014.12.10 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2014.12.10 (15:20 - 17:00)
+     * C, in p2.2 with VAS, at 2014.12.17 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2015.01.05 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2015.01.07 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2015.01.07 (15:20 - 17:00)
+     * C, in p2.2 with VAS, at 2015.01.14 (9:50 - 11:30)
+     * L, in p2.6 with VAS, at 2015.01.19 (9:50 - 11:30)
+     * C, in p2.2 with VAS, at 2015.01.21 (9:50 - 11:30)
+     * S, in p1.2 with BAI, at 2015.01.21 (15:20 - 17:00)
+  # [I.S.]. Ingineria softului (28 classes; #752237, #D44C6E)
+     * C, in p2.2 with BC1, at 2014.10.06 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.10.08 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.10.13 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.10.15 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.10.20 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.10.22 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.10.27 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.10.29 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.11.03 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.11.05 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.11.10 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.11.12 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.11.17 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.11.19 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.11.24 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.11.26 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.12.01 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.12.03 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.12.08 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.12.10 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2014.12.15 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2014.12.17 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2015.01.05 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2015.01.07 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2015.01.12 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2015.01.14 (17:10 - 18:50)
+     * C, in p2.2 with BC1, at 2015.01.19 (11:40 - 13:20)
+     * L, in p2.3 with BC1, at 2015.01.21 (17:10 - 18:50)
+  # [P.D.]. Programare distribuită (28 classes; #D66000, #F0ED60)
+     * L, in p3.4 with STR, at 2014.10.06 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.10.08 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.10.13 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.10.15 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.10.20 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.10.22 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.10.27 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.10.29 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.11.03 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.11.05 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.11.10 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.11.12 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.11.17 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.11.19 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.11.24 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.11.26 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.12.01 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.12.03 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.12.08 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.12.10 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2014.12.15 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2014.12.17 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2015.01.05 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2015.01.07 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2015.01.12 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2015.01.14 (8:00 - 9:40)
+     * L, in p3.4 with STR, at 2015.01.19 (17:10 - 18:50)
+     * C, in p2.2 with SCH, at 2015.01.21 (8:00 - 9:40)
+  # [T.W.]. Tehnologii web (28 classes; #162452, #439FD1)
+     * L, in p2.4 with NAN, at 2014.10.07 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.10.07 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.10.14 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.10.14 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.10.21 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.10.21 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.10.28 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.10.28 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.11.04 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.11.04 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.11.11 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.11.11 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.11.18 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.11.18 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.11.25 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.11.25 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.12.02 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.12.02 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.12.09 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.12.09 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2014.12.16 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2014.12.16 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2015.01.06 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2015.01.06 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2015.01.13 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2015.01.13 (11:40 - 13:20)
+     * L, in p2.4 with NAN, at 2015.01.20 (9:50 - 11:30)
+     * C, in p2.1 with SAN, at 2015.01.20 (11:40 - 13:20)
+  # [Lnx]. Linux (28 classes; #591973, #AE4ED4)
+     * L, in p2.5 with FLO, at 2014.10.09 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.10.09 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.10.16 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.10.16 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.10.23 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.10.23 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.10.30 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.10.30 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.11.06 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.11.06 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.11.13 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.11.13 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.11.20 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.11.20 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.11.27 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.11.27 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.12.04 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.12.04 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.12.11 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.12.11 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2014.12.18 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2014.12.18 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2015.01.08 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2015.01.08 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2015.01.15 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2015.01.15 (9:50 - 11:30)
+     * L, in p2.5 with FLO, at 2015.01.22 (8:00 - 9:40)
+     * C, in p2.2 with FLO, at 2015.01.22 (9:50 - 11:30)

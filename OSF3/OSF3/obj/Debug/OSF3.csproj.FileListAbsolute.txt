@@ -1,0 +1,26 @@
+D:\[ Documents ]\C#\OSF3\OSF3\bin\Debug\OSF3.exe.config
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.csprojResolveAssemblyReference.cache
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.Properties.Resources.resources
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.csproj.GenerateResource.Cache
+D:\[ Documents ]\C#\OSF3\OSF3\bin\Debug\OSF3.exe
+D:\[ Documents ]\C#\OSF3\OSF3\bin\Debug\OSF3.pdb
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.exe
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.pdb
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.FMain.resources
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FMenu.resources
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FAbout.resources
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FSelectWeek.resources
+D:\[ Documents ]\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FStickerExporter.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\bin\Debug\OSF3.exe.config
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.exe
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\bin\Debug\OSF3.exe
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\bin\Debug\OSF3.pdb
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FAbout.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.FMain.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FMenu.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FSelectWeek.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.Forms.FStickerExporter.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.Properties.Resources.resources
+C:\Users\Bogdan\Documents\Z. Programming\C#\OSF3\OSF3\obj\Debug\OSF3.csproj.GenerateResource.Cache
